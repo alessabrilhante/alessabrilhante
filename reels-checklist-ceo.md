@@ -1,11 +1,11 @@
 # reels · checklist ceo
 
-9 roteiros pro **checklist ceo · o raio-x do teu negócio**, em 2 fases:
-- **fase 1 · salvar e compartilhar (reels 1–4):** conteúdo que entrega valor sozinho, pra crescer o perfil antes de vender. a meta é save e share, não venda. nada de preço nem de link.
-- **fase 2 · venda (reels 5–9):** método de 5 blocos (hook → retenção → raspada de provas → âncora temporal → cta + isca).
+13 roteiros pro **checklist ceo · o raio-x do teu negócio**, em 2 fases:
+- **fase 1 · compartilhar e salvar (reels 1–8):** conteúdo que entrega valor sozinho, pra crescer o perfil antes de vender. a meta é save e share, não venda. nada de preço nem de link.
+- **fase 2 · venda (reels 9–13):** método de 5 blocos (hook → retenção → raspada de provas → âncora temporal → cta + isca).
 base: os dois painéis do checklist ceo (80 perguntas, 7 áreas, nota de 0 a 100, plano de 30 dias, planilha + pdf de 27 páginas, R$37 lançamento / R$47, teste grátis de 2 min, bumps kit financeiro +R$27 e scripts que vendem +R$19, garantia de 7 dias).
 
-**palavra da isca:** `RAIOX` (e `TESTE` no reel 9, que leva pro teste grátis)
+**palavra da isca:** `RAIOX` (e `TESTE` no reel 13, que leva pro teste grátis)
 **âncora do momento:** outubro, faltam ~11 semanas pro fim do ano e a black friday tá chegando.
 **visual:** fundo rosa `#F7C6DD`, texto vinho `#A8155A`, palavra de destaque em advercase, estrelinha `#E8649E`. legenda sempre em minúscula.
 
@@ -13,16 +13,75 @@ base: os dois painéis do checklist ceo (80 perguntas, 7 áreas, nota de 0 a 100
 
 ---
 
-# fase 1 · reels salváveis e compartilháveis
+# fase 1 · reels pra compartilhar e salvar
 
-regras dessa fase:
-- **salvável** = a pessoa vai querer voltar nele (lista, conta, checklist, passo a passo). o texto tem que ficar **na tela**, legível no pause.
-- **compartilhável** = a pessoa se vê ou vê uma amiga ("é a fulana"). humor + identificação.
-- o cta pede **uma** ação só: "salva" ou "manda pra ela". sem link, sem preço.
-- o checklist ceo aparece só como assinatura ("pergunta tirada do checklist ceo"), pra criar curiosidade.
-- capa com o título grande, porque é ela que aparece na grade e no "salvos".
+**o teste antes de gravar:** "eu compartilharia isso no meu story, com meu nome, ou teria vergonha?"
+ninguém compartilha "pago a conta do negócio com o pix pessoal". a pessoa compartilha o que mostra quem ela **é** ou quem ela **quer ser**: a empreendedora corajosa, a que se vira, a que tem orgulho do que construiu, a que ri da própria rotina (sem se expor).
 
-## reel 1 · "7 perguntas pra saber se teu negócio tá vazando"
+**formato (igual aos virais de referência):**
+- **uma cena só**, gravada de um ângulo, sem fala. tu fazendo uma coisa do dia a dia (no notebook, arrumando a loja, no café, embalando pedido).
+- **uma frase grande na tela**, que é o reel inteiro. serifada elegante ou caixa alta bold, centralizada no terço de cima.
+- **música em alta**, 6 a 10 segundos, em loop.
+- legenda curtinha, com uma piada ou uma marcação ("marca tua sócia").
+- **sem cta de venda, sem logo grande.** no máximo @checklistceo pequeno no canto.
+
+os 6 primeiros são pra compartilhar (identidade e orgulho). os 2 últimos são pra salvar (conteúdo útil).
+
+---
+
+## reel 1 · "minha própria chefe"
+**meta:** compartilhar (humor de identificação) · **8s**
+🎥 **cena:** tu de pijama/roupão, de costas, sentando no notebook à noite, luz baixa.
+📝 **texto na tela:**
+> "empreender é bom porque eu sou minha própria chefe"
+>
+> minha chefe me mandando responder cliente às 23:40 👍
+
+**legenda:** a pior chefe que eu já tive e eu amo ela 🥲 #empreendedora
+
+## reel 2 · "que bom que fomos corajosas"
+**meta:** compartilhar (orgulho, marca a amiga) · **8s**
+🎥 **cena:** tu e uma amiga empreendedora numa cafeteria ou na loja, notebook e café, rindo, num dia de semana.
+📝 **texto na tela (serifada):**
+> que bom que fomos corajosas. hoje a gente faz reunião de planejamento numa quarta à tarde, com bolo.
+
+**legenda:** marca tua parceira de "bora abrir um negócio? bora" ☕️
+
+## reel 3 · "pareço normal, mas…"
+**meta:** compartilhar (coragem com humor, sem vergonha) · **8–10s**
+🎥 **cena:** tu montando a loja/o cantinho de trabalho: pendurando prateleira, abrindo caixa, colando adesivo na vitrine.
+📝 **texto na tela:**
+> pareço normal, mas larguei um emprego fixo pra vender [o que tu vende] e não me arrependo nem um dia 🤭
+
+**legenda:** mentira, me arrependo toda segunda-feira às 8h. e passa às 8h05 😅
+
+## reel 4 · "eu depois de descobrir onde tava o furo"
+**meta:** compartilhar (alívio, vira gancho do produto sem vender) · **6–8s**
+🎥 **cena:** tu na frente do notebook, mãos no rosto, rindo de alívio (igual à referência).
+📝 **texto na tela (caixa alta):**
+> EU DEPOIS DE DESCOBRIR QUE O PROBLEMA DO MEU NEGÓCIO ERA UM SÓ, E NÃO OS 47 QUE EU ACHAVA
+
+**legenda:** tava tentando arrumar tudo ao mesmo tempo. era só uma área. 🫠 (quem quiser saber como eu descobri, tá no destaque)
+
+## reel 5 · "ceo de brincadeira"
+**meta:** compartilhar (orgulho, "essa sou eu") · **8s**
+🎥 **cena:** tu de blazer (ou camiseta + óculos), caminhando até a mesa, sentando e abrindo a planilha com cara de chefe. câmera lenta.
+📝 **texto na tela:**
+> me chamo de ceo de brincadeira, mas hoje eu sei meu ponto de equilíbrio de cabeça 💅
+
+**legenda:** R$6.000. me pergunta que eu respondo. 😌
+
+## reel 6 · "a gente não abriu um negócio pra isso"
+**meta:** compartilhar (frase-manifesto) · **8s**
+🎥 **cena:** tu fechando o notebook às 18h, pegando a bolsa, apagando a luz, porta fechando.
+📝 **texto na tela (serifada):**
+> a gente não abriu um negócio pra ter um emprego pior do que o que a gente largou.
+
+**legenda:** 18h e o expediente acabou. a cliente espera até amanhã, e tá tudo bem 🤍 manda pra amiga que precisa ler isso.
+
+---
+
+## reel 7 · "7 perguntas pra saber se teu negócio tá vazando"
 **meta:** salvar · **duração:** 25–30s · **formato:** lista na tela, uma pergunta por corte, tu apontando pro texto
 **capa:** **7 perguntas que mostram onde teu negócio tá *vazando***
 
@@ -44,7 +103,7 @@ regras dessa fase:
 > 6 ou 7 sim: teu negócio tá de pé. 4 ou 5: tem área pedindo atenção. 3 ou menos: tem furo, e é por ali que o dinheiro escapa.
 > salva e me conta nos comentários quantos sim deu 👇
 
-## reel 2 · "a conta que toda empreendedora devia saber de cabeça"
+## reel 8 · "a conta que toda empreendedora devia saber de cabeça"
 **meta:** salvar · **duração:** 30s · **formato:** calculadora/caderno na mesa, tu fazendo a conta junto
 **capa:** **quanto tu *precisa* vender por mês? (a conta)**
 
@@ -63,49 +122,11 @@ regras dessa fase:
 > ex.: R$2.400 ÷ 0,40 = R$6.000 por mês. dividido por 4 semanas, R$1.500 por semana.
 > esquece "vender mais". começa sabendo o mínimo. salva pra fazer a conta com calma 📌
 
-## reel 3 · "funcionária ou ceo do teu negócio?"
-**meta:** compartilhar · **duração:** 20–25s · **formato:** split screen ou trend de dois lados, tu nos dois papéis (avental × blazer)
-**capa:** **tu é funcionária ou *ceo* do teu negócio?**
-
-- **hook:** "manda pra amiga que trabalha 12 horas por dia e diz que tá tudo bem."
-- **retenção:** "vamo ver de que lado tu tá." ↪ corte pra tela dividida.
-- **conteúdo (lado esquerdo "funcionária" × direito "ceo", 3s cada):**
-  - responde direct às 23h × tem horário de parar
-  - "o dinheiro some" × sabe pra onde ele vai
-  - dá preço olhando a concorrente × dá preço pelos custos
-  - faz tudo sozinha × sabe o que dá pra delegar
-  - posta quando dá × sabe qual post vende
-- **fecho (tu de blazer, olhando pra câmera):** "não precisa de mais esforço. precisa de esforço no lugar certo."
-- **cta:** "manda pra tua sócia, tua amiga ou tua mãe. ela sabe de que lado tá."
-
-**legenda:**
-> a maioria de nós começa como funcionária do próprio negócio. o problema é ficar.
-> marca aquela amiga que precisa ver isso hoje 💌
-
-## reel 4 · "coisas que toda dona de pequeno negócio já fez"
-**meta:** compartilhar · **duração:** 15–20s · **formato:** trend "tell me without telling me" / lista rápida com humor
-**capa:** **sinais de que tu tem um pequeno *negócio***
-
-- **hook:** "se tu fizer 3 dessas, tu é dona de pequeno negócio e precisa mandar pra alguém."
-- **retenção:** "a última é a mais real." ↪ cortes de 2s, música em alta.
-- **conteúdo (uma cena encenada por item):**
-  - pagar a conta do negócio com o pix pessoal "só dessa vez"
-  - "quanto é?" → visualizou → nunca mais
-  - fazer o balanço do mês no bloco de notas do celular
-  - dar desconto antes da cliente pedir
-  - prometer folga no domingo e responder cliente no domingo
-  - **a última:** dizer "tá tudo sob controle" com 47 abas abertas na cabeça
-- **cta:** "manda pra tua amiga empreendedora e conta quantas tu fez."
-
-**legenda:**
-> quantas tu fez? eu fiz todas 🙋‍♀️
-> manda pra aquela amiga que vai rir de nervoso.
-
 ---
 
 # fase 2 · reels de venda
 
-## reel 5 · "onde teu negócio tá vazando"
+## reel 9 · "onde teu negócio tá vazando"
 **objetivo:** venda direta · **duração:** 35–40s · **formato:** tu falando pra câmera + b-roll da planilha
 
 ━━━━━━━━━━━━━━━━━━━━━━━
@@ -147,7 +168,7 @@ legenda na tela: **teu negócio tá *vazando*. tu sabe onde?**
 
 ---
 
-## reel 6 · "a conta da casa e a do negócio"
+## reel 10 · "a conta da casa e a do negócio"
 **objetivo:** dor do financeiro → venda + bump kit financeiro · **duração:** 30–35s · **formato:** pov com texto na tela
 
 ━━━━━━━━━━━━━━━━━━━━━━━
@@ -188,7 +209,7 @@ legenda: **pov: chegou o dia 30 e tu não sabe pra onde foi o *dinheiro***
 
 ---
 
-## reel 7 · "tudo mora na tua cabeça"
+## reel 11 · "tudo mora na tua cabeça"
 **objetivo:** dor de rotina/ceo → venda · **duração:** 30s · **formato:** tu no caos → tu organizada (antes/depois)
 
 ━━━━━━━━━━━━━━━━━━━━━━━
@@ -225,7 +246,7 @@ legenda: **tua mente foi feita pra *criar*, não pra armazenar**
 
 ---
 
-## reel 8 · "cliente pergunta o preço e some"
+## reel 12 · "cliente pergunta o preço e some"
 **objetivo:** dor de vendas → venda + bump scripts · **duração:** 30–35s · **formato:** encenação de conversa no whatsapp
 
 ━━━━━━━━━━━━━━━━━━━━━━━
@@ -262,7 +283,7 @@ legenda: **ela perguntou o preço. visualizou. *sumiu*.**
 
 ---
 
-## reel 9 · "faz o teste em 2 minutos"
+## reel 13 · "faz o teste em 2 minutos"
 **objetivo:** topo de funil → teste grátis (`raio-x.html`) · **duração:** 20–25s · **formato:** tela gravada do celular + voz
 
 ━━━━━━━━━━━━━━━━━━━━━━━
@@ -302,19 +323,18 @@ legenda: **teste: teu negócio cresce ou só *gira*?**
 
 ---
 
-## ordem sugerida de postagem (3 semanas)
-| dia | reel | meta |
-|---|---|---|
-| seg 1 | 1 · 7 perguntas | salvar |
-| qua 1 | 3 · funcionária ou ceo | compartilhar |
-| sex 1 | 2 · a conta do ponto de equilíbrio | salvar |
-| seg 2 | 4 · coisas que toda dona já fez | compartilhar |
-| qua 2 | 9 · teste grátis | abre o funil (comenta TESTE) |
-| sex 2 | 5 · onde tá vazando | venda |
-| seg 3 | 6 · conta da casa | venda + kit financeiro |
-| qua 3 | 7 · tudo na cabeça | venda |
-| sex 3 | 8 · cliente some | venda + scripts, perto da black |
+---
 
-na fase 1, responde todo comentário com uma pergunta de volta ("e qual deu não?") pra puxar conversa. quem comentar nos reels 1 e 2 é quem vai receber primeiro o teste grátis na fase 2.
+## ordem sugerida de postagem (4 semanas)
+| semana | seg | qua | sex |
+|---|---|---|---|
+| 1 | 1 · minha própria chefe | 2 · fomos corajosas | 7 · 7 perguntas (salvar) |
+| 2 | 3 · pareço normal | 5 · ceo de brincadeira | 8 · a conta (salvar) |
+| 3 | 6 · emprego pior | 4 · descobri o furo | 13 · teste grátis (TESTE) |
+| 4 | 9 · onde tá vazando | 10 · conta da casa | 12 · cliente some (perto da black) |
+
+o reel 11 (tudo na cabeça) fica de reserva pra repostar ou usar como anúncio.
+
+na fase 1, responde todo comentário com uma pergunta de volta ("e tu, faz o quê?") pra puxar conversa. quem comentar e compartilhar é quem recebe primeiro o teste grátis na fase 2.
 
 **automação do direct (RAIOX):** "oi! aqui o teu raio-x 💌 [link]. no lançamento tá R$37 pras primeiras 50, depois volta pra R$47. e se preferir começar pelo grátis: [link do teste]."
